@@ -4,6 +4,7 @@
     top: 0;
     bottom: 0;
     left: 0;
+    background-color: white;
 }
 
 #index ul {
@@ -30,4 +31,8 @@ a:hover {
 
 .container ul {
     margin-left: 0;
+}
+
+body.pg-contact {
+    background-image: url('/img/bg-image.jpg');
 }
