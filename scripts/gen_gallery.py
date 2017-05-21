@@ -22,7 +22,9 @@ def main():
     f.write('\n')
 
     for path in imgs:
-        f.write('![{}](/img/still/{})\n\n'.format(path, path))
+        s = '[![{}](/img/still/{})](/img/still/{})\n\n'.format(
+            path, path, path)
+        f.write(s)
 
     f.close()
 
