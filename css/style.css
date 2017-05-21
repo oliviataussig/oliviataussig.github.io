@@ -35,4 +35,5 @@ a:hover {
 
 body.pg-contact {
     background-image: url('/img/bg-image.jpg');
+    background-position-x: 215px;
 }
