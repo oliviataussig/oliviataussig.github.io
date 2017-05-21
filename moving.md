@@ -30,7 +30,7 @@ Hieronymus Bosch’s triptych _The Garden of Earthly Delights_ acted as a cataly
 Weather Report<br>
 4:32<br>
 2011<br>
-A catalogue of nine news headlines collected over a years time illuminating apocalyptic undercurrents. Headlines become ironic expositionons, highlighting catastrophic and fantastical variables at play.<br>
+A catalogue of nine news headlines collected over a years time illuminating apocalyptic undercurrents. Headlines become ironic expositions, highlighting catastrophic and fantastical variables at play.<br>
 Official Selection SXSW Animated Short
 
 
