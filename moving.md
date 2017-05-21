@@ -4,7 +4,7 @@ title: moving
 permalink: /moving/
 ---
 
-![babyface](/img/babyface.gif)
+[![babyface](/img/babyface.gif)](/img/babyface.gif)
 
 [Baby Face](/img/babyface.gif)
 
