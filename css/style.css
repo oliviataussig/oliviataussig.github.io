@@ -1,10 +1,8 @@
 #index {
     width: 215px;
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    background-color: white;
+    background-color: yellow;
+    transform: rotate(-1deg);
+    float: left;
 }
 
 #index ul {
@@ -12,7 +10,7 @@
 }
 
 #exhibit {
-    margin-left: 215px;
+    margin-left: 210px;
 }
 
 a {

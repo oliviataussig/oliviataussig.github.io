@@ -4,6 +4,8 @@ title: moving
 permalink: /moving/
 ---
 
+[giphy.com/ot](https://giphy.com/ot)
+
 [![babyface](/img/babyface.gif)](/img/babyface.gif)
 
 [Baby Face](/img/babyface.gif)
