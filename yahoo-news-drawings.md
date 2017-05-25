@@ -4,8 +4,7 @@ title: yahoo! news drawings
 permalink: /yahoo-news-drawings/
 ---
 
-Drawings of _Yahoo! News_ headlines.
-
+Drawings of _Yahoo! News_ headlines.<br />
 Watercolor, crayon, graphite and ink.
 
 ![14 year old girl completes NASCAR race](/img/yahoo/1.jpg)
