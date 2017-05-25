@@ -1,8 +1,10 @@
 #index {
     width: 215px;
+    max-height: 200px;
     background-color: yellow;
     transform: rotate(-1deg);
-    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
 }
 
 #index ul {
@@ -31,5 +33,25 @@ a:hover {
     margin-left: 0;
 }
 
+.page-content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.page-content p {
+    margin-left: 10px;
+}
+
 body.pg-contact {
+}
+
+.ot-work {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.ot-work .ot-title {
 }
