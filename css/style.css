@@ -1,5 +1,4 @@
 #index {
-    width: 215px;
     max-height: 200px;
     background-color: yellow;
     transform: rotate(-1deg);
@@ -26,7 +25,7 @@ a:hover {
 }
 
 .container {
-    padding: 27px 9px 25px 27px;
+    padding: 20px;
 }
 
 .container ul {
