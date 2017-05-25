@@ -1,4 +1,5 @@
 #index {
+    min-width: 190px;
     max-height: 200px;
     background-color: yellow;
     transform: rotate(-1deg);
