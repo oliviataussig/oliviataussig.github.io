@@ -5,6 +5,8 @@ permalink: /still/
 
 
 ---
+
+[![nudehouse_03.jpg](/img/still/nudehouse_03.jpg)](/img/still/nudehouse_03.jpg)
 [![nudehouse_02.jpg](/img/still/nudehouse_02.jpg)](/img/still/nudehouse_02.jpg)
 [![nudehouse_01.jpg](/img/still/nudehouse_01.jpg)](/img/still/nudehouse_01.jpg)
 [![3_Screen shot 2013-02-04 at 2_52_15 PM.jpg](/img/still/3_Screen shot 2013-02-04 at 2_52_15 PM.jpg)](/img/still/3_Screen shot 2013-02-04 at 2_52_15 PM.jpg)
