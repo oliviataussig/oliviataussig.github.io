@@ -3,7 +3,7 @@ layout: page
 title: still
 permalink: /still/
 
-[![nudehouse_02.jpg](/img/still/nudehouse_02.jpg)](/img/still/nudehouse_02.jpg)
+
 ---
 [![nudehouse_01.jpg](/img/still/nudehouse_01.jpg)](/img/still/nudehouse_01.jpg)
 
