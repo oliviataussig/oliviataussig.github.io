@@ -3,7 +3,7 @@ layout: page
 title: still
 permalink: /still/
 ---
-[![Screen Shot 2017-06-05 at 11.29.41 AM](img/still/Screen Shot 2017-06-05 at 11.29.41 AM0]9Screen Shot 2017-06-05 at 11.29.41 AM)
+[![Screen Shot 2017-06-05 at 11.29.41 AM](img/still/Screen Shot 2017-06-05 at 11.29.41 AM0](Screen Shot 2017-06-05 at 11.29.41 AM)
 
 [![3_tumblr_m72hc6htAL1r6x2w4o1_500.png](/img/still/3_tumblr_m72hc6htAL1r6x2w4o1_500.png)](/img/still/3_tumblr_m72hc6htAL1r6x2w4o1_500.png)
 
