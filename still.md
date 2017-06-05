@@ -5,7 +5,6 @@ permalink: /still/
 
 
 ---
-[![nudehouse_06.jpg](/img/still/nudehouse_06.jpg)](/img/still/nudehouse_06.jpg)
 [![nudehouse_05.jpg](/img/still/nudehouse_05.jpg)](/img/still/nudehouse_05.jpg)
 [![nudehouse_03.jpg](/img/still/nudehouse_03.jpg)](/img/still/nudehouse_03.jpg)
 [![nudehouse_02.jpg](/img/still/nudehouse_02.jpg)](/img/still/nudehouse_02.jpg)
