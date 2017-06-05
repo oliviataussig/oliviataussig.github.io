@@ -7,7 +7,7 @@ permalink: /still/
 ---
 [![nudehouse_02.jpg](/img/still/nudehouse_02.jpg)](/img/still/nudehouse_02.jpg)
 [![nudehouse_01.jpg](/img/still/nudehouse_01.jpg)](/img/still/nudehouse_01.jpg)
-
+[![3_Screen shot 2013-02-04 at 2_52_15 PM.jpg](/img/still/3_Screen shot 2013-02-04 at 2_52_15 PM.jpg)](/img/still/3_Screen shot 2013-02-04 at 2_52_15 PM.jpg)
 [![3_tumblr_m72hc6htAL1r6x2w4o1_500.png](/img/still/3_tumblr_m72hc6htAL1r6x2w4o1_500.png)](/img/still/3_tumblr_m72hc6htAL1r6x2w4o1_500.png)
 
 [![3_Screen shot 2013-10-17 at 6_50_32 PM.png](/img/still/3_Screen shot 2013-10-17 at 6_50_32 PM.png)](/img/still/3_Screen shot 2013-10-17 at 6_50_32 PM.png)
@@ -72,7 +72,7 @@ permalink: /still/
 
 [![3_tumblr_m9uaviohIy1r2jacx.png](/img/still/3_tumblr_m9uaviohIy1r2jacx.png)](/img/still/3_tumblr_m9uaviohIy1r2jacx.png)
 
-[![3_Screen shot 2013-02-04 at 2_52_15 PM.jpg](/img/still/3_Screen shot 2013-02-04 at 2_52_15 PM.jpg)](/img/still/3_Screen shot 2013-02-04 at 2_52_15 PM.jpg)
+
 
 [![3_tumblr_m8v6ygMQ7p1r2jacx.jpg](/img/still/3_tumblr_m8v6ygMQ7p1r2jacx.jpg)](/img/still/3_tumblr_m8v6ygMQ7p1r2jacx.jpg)
 
