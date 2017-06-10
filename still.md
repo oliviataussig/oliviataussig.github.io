@@ -6,7 +6,7 @@ permalink: /still/
 
 ---
 [![nudehouse_08.jpg](/img/still/nudehouse_08.jpg)](/img/still/nudehouse_08.jpg)
-[![nudehouse_07.jpg](/img/still/nudehouse_07.jpg)](/img/still/nudehouse_07.jpg)
+[![nudehouse_09.jpg](/img/still/nudehouse_09.jpg)](/img/still/nudehouse_09.jpg)
 [![nudehouse_05.jpg](/img/still/nudehouse_05.jpg)](/img/still/nudehouse_05.jpg)
 [![nudehouse_03.jpg](/img/still/nudehouse_03.jpg)](/img/still/nudehouse_03.jpg)
 [![nudehouse_02.jpg](/img/still/nudehouse_02.jpg)](/img/still/nudehouse_02.jpg)
