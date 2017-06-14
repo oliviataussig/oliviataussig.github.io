@@ -5,6 +5,8 @@ permalink: /still/
 
 
 ---
+[![Screen Shot 2017-06-14 at 10.15.35 AM](/img/still/Screen Shot 2017-06-14 at 10.15.35 AM)](/img/still/Screen Shot 2017-06-14 at 10.15.35 AM)
+
 [![nudehouse_08.jpg](/img/still/nudehouse_08.jpg)](/img/still/nudehouse_08.jpg)
 [![nudehouse_10.jpg](/img/still/nudehouse_10.jpg)](/img/still/nudehouse_10.jpg)
 [![nudehouse_05.jpg](/img/still/nudehouse_05.jpg)](/img/still/nudehouse_05.jpg)
