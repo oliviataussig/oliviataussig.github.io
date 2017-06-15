@@ -5,6 +5,7 @@ permalink: /still/
 
 
 ---
+[![hand_3.jpg](/img/still/hand_3.jpg)](/img/still/hand_3.jpg)
 [![hand_2.jpg](/img/still/hand_2.jpg)](/img/still/hand_2.jpg)
 [![hand_1.jpg](/img/still/hand_1.jpg)](/img/still/hand_1.jpg)
 [![nudehouse_08.jpg](/img/still/nudehouse_08.jpg)](/img/still/nudehouse_08.jpg)
